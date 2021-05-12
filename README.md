@@ -13,7 +13,7 @@
 
 ## 测试客户端启动命令
 ./client IP地址 端口 用户数字证书路径 用户私钥路径<br/>
-	比如:	./client 192.168.6.112 50001 ./client.crt ./client.pem<br/>
+	比如:	./client xxx.xxx.xxx.xxx 52000 ./client.crt ./client.pem<br/>
 
 ### 注意
 需要把ca.crt / client.crt / client.pem 均放置到该目录下<br/>
